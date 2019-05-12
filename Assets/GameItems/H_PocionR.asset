@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b69a07782ee05c749a44a287910cc713, type: 3}
+  m_Name: H_PocionR
+  m_EditorClassIdentifier: 
+  Name: "Poci\xF3n Roja"
+  Usable: 1
+  Equipable: 0
+  Value: 10
+  Icon: {fileID: 21300000, guid: f2efa2643a864ec4485c152d9348506e, type: 3}
+  HealthRestored: 20
+  ManaRestored: 0
